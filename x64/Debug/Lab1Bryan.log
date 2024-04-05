@@ -1,0 +1,3 @@
+﻿  Laboratory.cpp
+C:\Users\tanne\OneDrive\Documents\Programming\Lab1Bryan\Laboratory.cpp(18,10): warning C4305: '=': truncation from 'double' to 'float'
+  Lab1Bryan.vcxproj -> C:\Users\tanne\OneDrive\Documents\Programming\Lab1Bryan\x64\Debug\Lab1Bryan.exe
